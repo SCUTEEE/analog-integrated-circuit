@@ -1,7 +1,7 @@
 ---
-title: 课程名
+title: 模拟集成电路
 series: true
-github: github仓库地址
+github: https://github.com/SCUTEEE/analog-integrated-circuit
 ---
 
 <!-- 该文件用于网站显示 -->
